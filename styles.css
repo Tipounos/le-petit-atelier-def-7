@@ -1723,6 +1723,10 @@ ul {
     font-size: 1.3rem;
 }
 
+.galerie p {
+   text-align: center;
+}
+
 .galerie__grid:not(.active) {
     transform: scale(0);
     opacity: 0;
