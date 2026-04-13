@@ -366,14 +366,13 @@ ul {
 .mobile-menu a {
     font-family: var(--font-serif);
     font-size: 1.6rem;
-    color: var(--shewem);
     font-weight: 600;
     position: relative;
-
 }
 
 .mobile-menu a:not(.btn--primary) {
     padding: 0.3rem 0;    
+    color: var(--shewem);
 }
 
 .mobile-menu a::after {
